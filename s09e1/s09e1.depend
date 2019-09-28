@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1543687922 source:/home/luca/Scrivania/uni/programmi/progetti_programmazione/s09e1/Funzioni_generali.c
+	"Funzioni_generali.h"
+
+1543686382 /home/luca/Scrivania/uni/programmi/progetti_programmazione/s09e1/Funzioni_generali.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+
+1543742422 source:/home/luca/Scrivania/uni/programmi/progetti_programmazione/s09e1/Lista_Coll.c
+	"Lista_Coll.h"
+
+1543748920 /home/luca/Scrivania/uni/programmi/progetti_programmazione/s09e1/Lista_Coll.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+
+1543747640 source:/home/luca/Scrivania/uni/programmi/progetti_programmazione/s09e1/Lista_Din.c
+	"Lista_Din.h"
+
+1543748920 /home/luca/Scrivania/uni/programmi/progetti_programmazione/s09e1/Lista_Din.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+
+1543748822 source:/home/luca/Scrivania/uni/programmi/progetti_programmazione/s09e1/Lista_Statica.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Lista_Statica.h"
+
+1543748920 /home/luca/Scrivania/uni/programmi/progetti_programmazione/s09e1/Lista_Statica.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+
+1543747888 source:/home/luca/Scrivania/uni/programmi/progetti_programmazione/s09e1/main.c
+	"Lista_Statica.h"
+	"Lista_Din.h"
+	"Lista_Coll.h"
+	"Funzioni_generali.h"
+

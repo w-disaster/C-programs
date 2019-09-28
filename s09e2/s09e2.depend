@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1543787122 source:/home/luca/Scrivania/progetti_programmazione/s09e2/Funzioni_generali.c
+	"Funzioni_generali.h"
+
+1543761226 /home/luca/Scrivania/progetti_programmazione/s09e2/Funzioni_generali.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+
+1543787124 source:/home/luca/Scrivania/progetti_programmazione/s09e2/Lista_Coll.c
+	"Lista_Coll.h"
+
+1543787124 /home/luca/Scrivania/progetti_programmazione/s09e2/Lista_Coll.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+	<string.h>
+
+1543786622 source:/home/luca/Scrivania/progetti_programmazione/s09e2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista_Coll.h"
+	"Funzioni_generali.h"
+
